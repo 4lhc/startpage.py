@@ -19,7 +19,7 @@ python startpage.py
 
 credits
 --------
-This work is based on the following works. Thanks to all the original creator.
+This work is based on the following works. Thanks to all the original creators.
 
 * [startpage](http://www.deviantart.com/art/KMay-Start-Page-184915031) by *DeFined04*
 * google powered search by [tutorialzine](http://tutorialzine.com/2010/09/google-powered-site-search-ajax-jquery/)

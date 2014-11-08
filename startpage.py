@@ -15,7 +15,7 @@
 import json
 
 ###configs###
-new_tab = True #open urls in newtab?
+new_tab = not True #open urls in newtab?
 life_purpose = True #
 
 ###end of configs###
