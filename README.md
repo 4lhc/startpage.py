@@ -1,7 +1,7 @@
 startpage.py
 ============
 
-"startpage.py" is a python script that generates an html file than can be used as homepage or the newtab page. It features multiple search engines and customisable links that are separated into different categories. (currently only upto 10 categories are supported)
+"startpage.py" is a python script that generates an html file than can be used as a [startpage](https://github.com/4lhc/startpage.py#credits) or the newtab page. It features multiple search engines and customisable links that are separated into different categories. (currently only upto 10 categories are supported)
 
 ![alt tag](preview/20141108185942.png "preview")
 
