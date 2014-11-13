@@ -5,7 +5,6 @@ $(document).ready(function(){
 
     $('ul.icons li').click(function(){
         var el = $(this);
-        console.log('sas');
         if(el.hasClass('active')){
             // The icon is already active, exit
             return false;
@@ -31,17 +30,6 @@ $(document).ready(function(){
     // Focusing the input text box:
     $('#s').focus();
 
-    //$('#searchForm').submit(function(){
-        //googleSearch();
-        //return false;
-    //});
-
-    //$('#searchSite,#searchWeb').change(function(){
-        //// Listening for a click on one of the radio buttons.
-        //// config.searchSite is either true or false.
-
-        //config.searchSite = this.id == 'searchSite';
-    //});
 
 
 
