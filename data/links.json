@@ -25,7 +25,7 @@
             "colormunki": "http://www.colormunki.com/munsell",
             "jsfiddle": "http://jsfiddle.net/",
             "github": "https://github.com/",
-            "ipython": "http://localhost:8888/notebooks/Untitled1.ipynb"
+            "ipython": "http://localhost:8888/notebooks/"
         }
     },
     "ent.": {
@@ -62,8 +62,6 @@
             "/sci/": "http://www.4chan.org/sci/",
             "/tg/": "http://boards.4chan.org/tg/",
             "/diy/": "http://boards.4chan.org/diy/",
-            "[p]8chan": "http://anonymouse.org/cgi-bin/anon-www.cgi/http://www.8chan.co/boards.html",
-            "[p]8/b/": "http://anonymouse.org/cgi-bin/anon-www.cgi/http://www.8chan.co/b/",
             "8chan": "http://8chan.co/",
             "4chan": "http://www.4chan.org/",
             "/wg/": "http://www.4chan.org/wg/"
@@ -88,14 +86,11 @@
         "id": 5,
         "links": {
             "wired": "http://www.wired.com",
-            "indian expr": "http://indianexpress.com/",
-            "മാതൃഭൂമി": "http://www.mathrubhumi.com/index.php",
             "gnews": "http://news.google.com",
             "bbc": "http://www.bbc.com/",
-            "thehindu": "http://www.thehindu.com/",
             "reddit": "https://reddit.com",
-            "മലയാള മനോരമ": "http://www.manoramaonline.com/cgi-bin/MMOnline.dll/portal/ep/home.do",
-            "ഗൂഗിള്‍": "https://news.google.com/?edchanged=1&ned=ml_in"
+			"link": "#",
+			"link": "#"
         }
     },
     "reddit": {
