@@ -1,126 +1,130 @@
+
 {
-    "utils.": {
+    "category2": {
         "id": 2,
         "links": {
-            "gdirve": "https://drive.google.com",
-            "gmail": "https://mail.google.com",
-            "dropbox": "https://www.dropbox.com/",
-            "10min-mail": "https://10minutemail.net/"
+"link1": "#",
+"link2": "#",
+"link3": "#",
+"link4": "#",
+"link5": "#"
         }
     },
-    "misc.": {
+    "category3": {
         "id": 3,
         "links": {
-            "amazon": "https://www.amazon.in/",
-            "flipkart": "https://www.flipkart.com/",
-            "snapdeal": "https://www.snapdeal.com/",
-            "kickass": "http://kickass.to/"
+"link1": "#",
+"link2": "#",
+"link3": "#",
+"link4": "#"
         }
     },
-    "&lt;code/&gt;": {
-        "id": 8,
-        "links": {
-            "pythonanywhere": "https://www.pythonanywhere.com/",
-            "openshift": "https://www.openshift.com/products/online",
-            "colormunki": "http://www.colormunki.com/munsell",
-            "jsfiddle": "http://jsfiddle.net/",
-            "github": "https://github.com/",
-            "ipython": "http://localhost:8888/notebooks/"
-        }
-    },
-    "ent.": {
-        "id": 4,
-        "links": {
-            "youtube": "https://youtube.com/",
-            "dramatica": "https://encyclopediadramatica.se/",
-            "funnyjunk": "http://funnyjunk.com/",
-            "9gag": "https://9gag.com/hot",
-            "imgur": "http://imgur.com",
-            "/r/f7u12": "https://www.reddit.com/r/fffffffuuuuuuuuuuuu/"
-
-        }
-    },
-    "sci.": {
-        "id": 7,
-        "links": {
-            "popsci": "http://www.popsci.com/",
-            "sci.alert": "http://sciencealert.com.au/",
-            "ifls": "http://www.iflscience.com/",
-            "wired-sci": "http://www.wired.com/science",
-            "space": "http://www.space.com/"
-
-        }
-    },
-    "*chan": {
-        "id": 6,
-        "links": {
-            "/v/": "http://www.4chan.org/v/",
-            "/g/": "http://www.4chan.org/g/",
-            "/gd/": "http://www.4chan.org/gd/",
-            "/pol/": "http://www.4chan.org/pol/",
-            "/int/": "http://www.4chan.org/int/",
-            "/sci/": "http://www.4chan.org/sci/",
-            "/tg/": "http://boards.4chan.org/tg/",
-            "/diy/": "http://boards.4chan.org/diy/",
-            "8chan": "http://8chan.co/",
-            "4chan": "http://www.4chan.org/",
-            "/wg/": "http://www.4chan.org/wg/"
-        }
-    },
-    "tech.": {
+    "category9": {
         "id": 9,
         "links": {
-            "archforums": "https://bbs.archlinux.org/",
-            "/r/archlinux": "http://www.reddit.com/r/archlinux",
-            "archwiki": "https://wiki.archlinux.org/",
-            "/r/technology": "http://www.reddit.com/r/technology",
-            "/r/linux": "https://www.reddit.com/r/linux/",
-            "r/linuxadmin": "https://www.reddit.com/r/linuxadmin/",
-            "/r/linuxmasterrace": "https://www.reddit.com/r/linuxmasterrace",
-            "/r/engineering": "http://www.reddit.com/r/engineering",
-            "/r/unixporn": "https://www.reddit.com/r/unixporn/"
+"link1": "#",
+"link2": "#",
+"link3": "#",
+"link4": "#",
+"link5": "#",
+"link6": "#"
+        }
+    },
+    "category4": {
+        "id": 4,
+        "links": {
+"link1": "#",
+"link2": "#",
+"link3": "#",
+"link4": "#",
+"link5": "#",
+"link6": "#"
 
         }
     },
-    "news": {
+    "category7": {
+        "id": 7,
+        "links": {
+"link1": "#",
+"link2": "#",
+"link3": "#",
+"link4": "#",
+"link5": "#"
+
+        }
+    },
+    "category6": {
+        "id": 6,
+        "links": {
+"link1": "#",
+"link2": "#",
+"link3": "#",
+"link4": "#",
+"link5": "#",
+"link6": "#",
+"link7": "#",
+"link8": "#",
+"link9": "#",
+"link10": "#"
+        }
+    },
+    "category5": {
         "id": 5,
         "links": {
-            "wired": "http://www.wired.com",
-            "gnews": "http://news.google.com",
-            "bbc": "http://www.bbc.com/",
-            "reddit": "https://reddit.com",
-			"link": "#",
-			"link": "#"
-        }
-    },
-    "reddit": {
-        "id": 10,
-        "links": {
-            "/r/videos": "https://www.reddit.com/r/videos/",
-            "/r/worldnews": "https://www.reddit.com/r/worldnews",
-            "/r/4chan": "https://www.reddit.com/r/4chan/",
-            "/r/todayilearned": "http://www.reddit.com/r/todayilearned/",
-            "/r/diy": "http://www.reddit.com/r/diy",
-            "/r/geek": "http://www.reddit.com/r/geek",
-            "/r/askscience": "http://www.reddit.com/r/askscience",
-            "/r/iama": "http://www.reddit.com/r/iama",
-            "/r/bestof": "http://www.reddit.com/r/bestof",
-            "/r/science": "https://www.reddit.com/r/science/",
-            "/r/space": "http://www.reddit.com/r/space",
-            "/r/EverythingScience": "http://www.reddit.com/r/EverythingScience",
-            "/r/pics": "http://www.reddit.com/r/pics",
-            "/r/ksp": "https://www.reddit.com/r/KerbalSpaceProgram/",
-            "/r/python": "https://www.reddit.com/r/Python/",
-            "/r/programming": "http://www.reddit.com/r/programming"
+"link1": "#",
+"link2": "#",
+"link3": "#",
+"link4": "#",
+"link5": "#",
+"link6": "#",
+"link7": "#",
+"link8": "#",
+"link9": "#"
 
         }
     },
-    "social": {
+    "category8": {
+        "id": 8,
+        "links": {
+"link1": "#",
+"link2": "#",
+"link3": "#",
+"link4": "#",
+"link5": "#",
+"link6": "#",
+"link7": "#",
+"link8": "#",
+"link9": "#"
+        }
+    },
+    "category10": {
+        "id": 10,
+        "links": {
+"link1": "#",
+"link2": "#",
+"link3": "#",
+"link4": "#",
+"link5": "#",
+"link6": "#",
+"link7": "#",
+"link8": "#",
+"link9": "#",
+"link10": "#",
+"link11": "#",
+"link12": "#",
+"link13": "#",
+"link14": "#",
+"link15": "#",
+"link16": "#",
+"link17": "#"
+        }
+    },
+    "category1": {
         "id": 1,
         "links": {
-            "twitter": "https://twitter.com/",
-            "google+": "https://plus.google.com/",
-            "facebook": "https://www.facebook.com/"
+            "link1": "#",
+            "link2": "#",
+            "link3": "#"
         }
     }
 
